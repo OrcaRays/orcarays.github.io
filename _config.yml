@@ -112,3 +112,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+font:
+  heading: "Merriweather"
+  body: "Merriweather"
+google_fonts:
+  - family: "Merriweather"
+    weights: "400,700"
