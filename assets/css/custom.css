@@ -1,0 +1,9 @@
+/* 设置标题字体为 Inter 或 Segoe UI */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+}
+
+/* 设置正文为 Georgia 或 Palatino */
+body {
+  font-family: 'Georgia', 'Palatino Linotype', serif;
+}

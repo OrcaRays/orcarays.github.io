@@ -8,8 +8,6 @@ header:
   # caption: "The Garden Path to Idea Meritocracy"
 ---
 
-<section style="text-align: center; font-size: 1.25rem; line-height: 2; max-width: 800px; margin: 0 auto;">
-
 ## Real people  Real work  Real talk
 
 **We believe in seeing clearly and choosing rightly.**
@@ -20,7 +18,7 @@ In a world driven by noise, velocity, and posturing, we build systems that under
 
 We are not here to predict the world. We are here to understand the systems that shape it, and act accordingly.
 
-<br><br>
+
 
 ## About OrcaRays
 
@@ -46,5 +44,3 @@ We don't want to be big.
  **Sharp beats loud. Small beats bloated. Truth beats noise.**
 
 OrcaRays is independent, self-funded, and not open to unsolicited collaboration proposals.
-
-</section>
