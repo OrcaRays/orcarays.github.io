@@ -8,9 +8,7 @@ header:
   # caption: "The Garden Path to Idea Meritocracy"
 ---
 
-## Real people  Real work  Real talk
-
-**We believe in seeing clearly and choosing rightly.**
+## We believe in seeing clearly and choosing rightly.
 
 In a world driven by noise, velocity, and posturing, we build systems that understand, not systems that impress.
 
