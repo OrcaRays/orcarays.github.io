@@ -6,9 +6,6 @@ header:
   overlay_image: /assets/images/culture-landscape.jpg
   overlay_filter: 0.3  # 让白色文字在图上更清晰，可调节
   # caption: "The Garden Path to Idea Meritocracy"
-body {
-  font-family: Georgia, serif !important;
-}
 ---
 
 ## Real people  Real work  Real talk
@@ -17,9 +14,9 @@ body {
 
 In a world driven by noise, velocity, and posturing, we build systems that understand, not systems that impress.
 
-**Information asymmetry is inevitable**, but not unchallengeable. Through radical curiosity, intelligent systems, and independent thinking, we seek to close the gap between **what is visible** and **what is meaningful**.
+**Information asymmetry is inevitable**, but not unchallengeable. Through radical curiosity, independent thinking and next generation computational intelligence, we seek to close the gap between **what is visible** and **what is meaningful**.
 
-We are not here to predict the world. We are here to understand the systems that shape it, and act accordingly.
+We are not here to predict. We are here to understand the systems that shape the world, and act accordingly.
 
 
 

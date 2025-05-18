@@ -16,12 +16,12 @@
 
 # 加载自定义 CSS
 # _config.yml
-sass:
-  load_paths:
-    - _sass
-    - assets/css
+minimal_mistakes_skin: default
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# 添加在 <head> 的文件
+# 👇 重点是这段
 defaults:
   - scope:
       path: ""

@@ -1,21 +1,23 @@
-/* 默认全站字体设定 */
+/* assets/css/custom.css */
+
+/* 全站默认字体（正文使用 serif） */
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Georgia', serif;
 }
 
-/* 全站标题统一为无衬线 Inter */
+/* 全站标题字体（标题仍用 Inter） */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
 }
 
-/* 首页大图标题特殊处理（Bridgewater 风格） */
+/* 首页 Hero 大图标题样式 */
 .page__hero--overlay .page__title {
   font-family: 'Georgia', serif;
   font-size: 2.8rem;
   font-weight: 600;
 }
 
-/* 正文更优雅的 serif 字体 */
+/* 正文段落微调 */
 .page__content p {
   font-family: 'Georgia', serif;
   font-size: 1.2rem;
