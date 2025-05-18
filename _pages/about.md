@@ -6,6 +6,9 @@ header:
   overlay_image: /assets/images/culture-landscape.jpg
   overlay_filter: 0.3  # 让白色文字在图上更清晰，可调节
   # caption: "The Garden Path to Idea Meritocracy"
+body {
+  font-family: Georgia, serif !important;
+}
 ---
 
 ## Real people  Real work  Real talk

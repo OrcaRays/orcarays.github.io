@@ -15,8 +15,18 @@
 # in the templates via {{ site.myvariable }}.
 
 # 加载自定义 CSS
-custom_css:
-  - /assets/css/custom.css
+# _config.yml
+sass:
+  load_paths:
+    - _sass
+    - assets/css
+
+# 添加在 <head> 的文件
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
 
 title: OrcaRays Associates
 email:
